@@ -6,7 +6,10 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: you-can-delete-me-header.png
+  title: SkyWanderers
+  image_fullwidth: header_cockpit.jpg
+  caption: A game about building spaceships and wandering among stars.
+#  caption_url: /
 widget1:
   title: "Widget 1"
   url: 'http://domain.de/must-be-absolut-url-like-this-one/'
