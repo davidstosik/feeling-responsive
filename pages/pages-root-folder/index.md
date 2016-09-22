@@ -11,20 +11,20 @@ header:
   caption: A game about building spaceships and wandering among stars.
 #  caption_url: /
 widget1:
-  title: "Widget 1"
-  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
-  text: ''
+  title: "Ship holomap"
+#  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
+  image: '/images/screenshots/holomap_320.jpg'
+  text: 'Visualize your ship structure on a hologram map.'
 widget2:
-  title: "Widget 2"
-  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
-  text: ''
+  title: "Bunk beds"
+#  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
+  image: '/images/screenshots/bunkbeds_320.jpg'
+  text: "Sleep in your bunk bed when you're not busy building your ship or traveling around the galaxy!"
 widget3:
-  title: "Widget 3"
-  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
-  image: 'http://dummyimage.com/302x183/334d5c/efc94c.png&text=Placeholder'
-  text: ''
+  title: "Out in space"
+#  url: 'http://domain.de/must-be-absolut-url-like-this-one/'
+  image: '/images/screenshots/space_320.jpg'
+  text: 'Get out in space to repair or improve your ship from the outside.'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -35,15 +35,17 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
-  style: alert
+#callforaction:
+#  url: https://tinyletter.com/feeling-responsive
+#  text: Inform me about new updates and features ›
+#  style: alert
 permalink: /index.html
 ---
+<!--
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
     <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
+-->
